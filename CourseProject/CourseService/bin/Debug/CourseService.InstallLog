@@ -1,0 +1,560 @@
+﻿Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Rolling back assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Creating EventLog source CourseService in log Application...
+Rolling back assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Restoring event log to previous state for source CourseService.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Creating EventLog source CourseService in log Application...
+Rolling back assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Restoring event log to previous state for source CourseService.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Service CourseService is being removed from the system...
+Service CourseService was successfully removed from the system.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Removing EventLog source CourseService.
+Warning: The source CourseService is not registered on the local machine.
+Service CourseService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Installing service CourseService...
+Service CourseService has been successfully installed.
+Creating EventLog source CourseService in log Application...
+Committing assembly 'D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Предупреждение. Источник CourseService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы CourseService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Предупреждение. Источник CourseService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы CourseService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Предупреждение. Источник CourseService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы CourseService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Восстанавливается исходное состояние журнала событий для источника CourseService.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Восстанавливается исходное состояние журнала событий для источника CourseService.
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Восстанавливается исходное состояние журнала событий для источника CourseService.
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Выполняется удаление источника EventLog CourseService.
+Выполняется удаление службы CourseService из системы...
+Служба CourseService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+Устанавливается служба CourseService...
+Служба CourseService успешно установлена.
+Создается исходный EventLog CourseService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.InstallLog
+   assemblypath = C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe

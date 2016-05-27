@@ -1,0 +1,39 @@
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.csprojResolveAssemblyReference.cache
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.ProjectInstaller.resources
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.csproj.GenerateResource.Cache
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe.config
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.exe
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseService.pdb
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\Models.dll
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\Models.pdb
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.exe
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.pdb
+D:\KOCTECKY\CourseProject\CourseService\obj\Debug\CourseService.CourseService.resources
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseDBProject.dll
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\EntityFramework.dll
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\CourseDBProject.pdb
+D:\KOCTECKY\CourseProject\CourseService\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe.config
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseService.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseDBProject.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\Models.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\CourseDBProject.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\Models.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.ProjectInstaller.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.CourseService.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.csproj.GenerateResource.Cache
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\obj\Debug\CourseService.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\VkNet.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\VkNet.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseService\bin\Debug\Newtonsoft.Json.xml
