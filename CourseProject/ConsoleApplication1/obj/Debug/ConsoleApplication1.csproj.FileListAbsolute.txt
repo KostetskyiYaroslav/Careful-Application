@@ -1,0 +1,5 @@
+D:\KOCTECKY\CourseProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\KOCTECKY\CourseProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\KOCTECKY\CourseProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\KOCTECKY\CourseProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\KOCTECKY\CourseProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
