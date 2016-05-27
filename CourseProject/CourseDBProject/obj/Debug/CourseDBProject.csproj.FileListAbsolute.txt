@@ -1,0 +1,18 @@
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.dll.config
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.dll
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.pdb
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\EntityFramework.dll
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\EntityFramework.xml
+D:\KOCTECKY\CourseProject\CourseDBProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\KOCTECKY\CourseProject\CourseDBProject\obj\Debug\CourseDBProject.dll
+D:\KOCTECKY\CourseProject\CourseDBProject\obj\Debug\CourseDBProject.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.dll.config
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\CourseDBProject.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\obj\Debug\CourseDBProject.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\CourseProject\CourseDBProject\obj\Debug\CourseDBProject.pdb

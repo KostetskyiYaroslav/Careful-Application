@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CourseDBModelStoreContainer" CdmEntityContainer="CourseDBEntities">
+    <EntitySetMapping Name="tbl_Fail">
+      <EntityTypeMapping TypeName="CourseDBModel.tbl_Fail">
+        <MappingFragment StoreEntitySet="tbl_Fail">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="account_id" ColumnName="account_id" />
+          <ScalarProperty Name="account_contact" ColumnName="account_contact" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Logs">
+      <EntityTypeMapping TypeName="CourseDBModel.tbl_Logs">
+        <MappingFragment StoreEntitySet="tbl_Logs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="message" ColumnName="message" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Cities">
+      <EntityTypeMapping TypeName="CourseDBModel.tbl_Cities">
+        <MappingFragment StoreEntitySet="tbl_Cities">
+          <ScalarProperty Name="Site_Name" ColumnName="Site-Name" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Status">
+      <EntityTypeMapping TypeName="CourseDBModel.tbl_Status">
+        <MappingFragment StoreEntitySet="tbl_Status">
+          <ScalarProperty Name="Guid" ColumnName="Guid" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Id_User" ColumnName="Id_User" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

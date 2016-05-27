@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="CourseDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tbl_Cities">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Site-Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tbl_Fail">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="account_id" Type="int" Nullable="false" />
+          <Property Name="account_contact" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tbl_Logs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="message" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="date" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tbl_Status">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Id_User" Type="int" Nullable="false" />
+          <Property Name="Status" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Guid" Type="nvarchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="CourseDBModelStoreContainer">
+          <EntitySet Name="tbl_Cities" EntityType="Self.tbl_Cities" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Fail" EntityType="Self.tbl_Fail" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Logs" EntityType="Self.tbl_Logs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Status" EntityType="Self.tbl_Status" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CourseDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tbl_Fail">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="account_id" Type="Int32" Nullable="false" />
+          <Property Name="account_contact" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tbl_Logs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="date" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="CourseDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tbl_Fail" EntityType="Self.tbl_Fail" />
+          <EntitySet Name="tbl_Logs" EntityType="Self.tbl_Logs" />
+          <EntitySet Name="tbl_Cities" EntityType="CourseDBModel.tbl_Cities" />
+          <EntitySet Name="tbl_Status" EntityType="CourseDBModel.tbl_Status" />
+        </EntityContainer>
+        <EntityType Name="tbl_Cities">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Site_Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="tbl_Status">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Id_User" Type="Int32" Nullable="false" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Guid" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CourseDBModelStoreContainer" CdmEntityContainer="CourseDBEntities">
+          <EntitySetMapping Name="tbl_Fail">
+            <EntityTypeMapping TypeName="CourseDBModel.tbl_Fail">
+              <MappingFragment StoreEntitySet="tbl_Fail">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="account_id" ColumnName="account_id" />
+                <ScalarProperty Name="account_contact" ColumnName="account_contact" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Logs">
+            <EntityTypeMapping TypeName="CourseDBModel.tbl_Logs">
+              <MappingFragment StoreEntitySet="tbl_Logs">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="message" ColumnName="message" />
+                <ScalarProperty Name="date" ColumnName="date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Cities">
+            <EntityTypeMapping TypeName="CourseDBModel.tbl_Cities">
+              <MappingFragment StoreEntitySet="tbl_Cities">
+                <ScalarProperty Name="Site_Name" ColumnName="Site-Name" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Status">
+            <EntityTypeMapping TypeName="CourseDBModel.tbl_Status">
+              <MappingFragment StoreEntitySet="tbl_Status">
+                <ScalarProperty Name="Guid" ColumnName="Guid" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="Id_User" ColumnName="Id_User" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

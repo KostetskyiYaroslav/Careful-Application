@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CourseDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_Cities">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Site-Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Fail">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="account_id" Type="int" Nullable="false" />
+    <Property Name="account_contact" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Logs">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="message" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_Status">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Id_User" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Guid" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CourseDBModelStoreContainer">
+    <EntitySet Name="tbl_Cities" EntityType="Self.tbl_Cities" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Fail" EntityType="Self.tbl_Fail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Logs" EntityType="Self.tbl_Logs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Status" EntityType="Self.tbl_Status" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
